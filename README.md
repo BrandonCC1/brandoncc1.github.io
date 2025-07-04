@@ -1,3 +1,3 @@
 # brandoncc1.github.io
-Hi
+Hi.\n
 Testing again.
